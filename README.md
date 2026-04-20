@@ -61,7 +61,6 @@ API: http://localhost:8081/api/stats
 
 ## Генерация нагрузки
 ```
-# В отдельном терминале
 for i in {1..20}; do
   curl -s http://localhost:8081/api/stats
   curl -s -X POST http://localhost:8081/api/support
