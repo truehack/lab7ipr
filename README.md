@@ -23,6 +23,8 @@
 
 
 ---
+## Клонирование репозитория
+git clone https://github.com/truehack/lab7ipr.git
 
 ## Запуск
 
